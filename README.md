@@ -35,13 +35,13 @@ DogYears: 36
 Using ONLY loops and conditions write a program that prints these figures into output:
 
 
-#######    #######    #######
-#     #     #              # 
-#     #      #            #  
-#     #       #          #   
-#     #        #        #    
-#     #         #      #     
-#######    #######    #######
+'#######    #######    #######'
+'#     #     #              # '
+'#     #      #            #  '
+'#     #       #          #   '
+'#     #        #        #    '
+'#     #         #      #     '
+'#######    #######    #######'
 
 # Task_4
 Given any sentence. Write a program that will change first letter of each word to capital letter
