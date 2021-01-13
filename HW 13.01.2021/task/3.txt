@@ -1,0 +1,10 @@
+Using ONLY loops and conditions write a program that prints these figures into output:
+
+
+#######    #######    #######
+#     #     #              # 
+#     #      #            #  
+#     #       #          #   
+#     #        #        #    
+#     #         #      #     
+#######    #######    #######

@@ -1,0 +1,5 @@
+Given any sentence. Write a program that will change first letter of each word to capital letter
+
+EXAMPLE:
+input:    "This is just an example string for test"
+output: "This Is Just An Example String For Test"
